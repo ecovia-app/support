@@ -1,2 +1,3 @@
-# ecovia.github.io
-ECOVIA support
+# ECOVIA Support
+
+Wenn Sie Fragen zur Nutzung der ECOVIA App haben, wenden Sie sich gerne per Mail an uns: mail@ecovia.app
